@@ -1,5 +1,6 @@
-## dev-tools
+dev-tools
+=========
 
-This is a place for tools that might help a developer.
+Independently licensed C++ tools for developers.
 
-Please contribute code that helps you do developer things :)
+See CONTRIBUTING.md for contributing guidelines.
